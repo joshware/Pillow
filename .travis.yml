@@ -1,7 +1,7 @@
 language: python
 
 notifications:
-  irc: "chat.freenode.net#pil"
+  email: "josh@joshw.info"
 
 env: MAX_CONCURRENCY=4
 
